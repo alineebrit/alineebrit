@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi 😃 my name is **Aline de Brito**, I'm 19 years old and I'm a **Computer Science** student at Federal University of Campina Grande(UFCG) in Brazil. I'm interested in  artificial intelligence, web develompment and data science. In my free time, I love listening to music 🎵 and watching tv series 📺.
+Hi 😃 my name is **Aline de Brito**, I'm 21 years old and I'm a **Computer Science** student at Federal University of Campina Grande(UFCG) in Brazil. I'm interested in  artificial intelligence, web develompment and data science. In my free time, I love listening to music 🎵 and watching tv series 📺.
 
 - 💻 Tools and Technologies:
 
